@@ -5,7 +5,7 @@ require 'sinatra/base'
 class SinatraExample < Sinatra::Base
 
   get "/" do
-    "Hello World"
+    "Nusco's Happy Sinatra App!"
   end
   
 end
